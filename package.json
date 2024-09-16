@@ -39,6 +39,6 @@
     ]
   },
   "engines": {
-    Node.js 20.
+    "node.js 20."
   }
 }
